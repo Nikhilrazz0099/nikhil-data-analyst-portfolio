@@ -16,6 +16,34 @@ function renderSales(rows){destroyCharts();$('chart1-title').textContent='Monthl
 function renderPurchases(rows){destroyCharts();$('chart1-title').textContent='Monthly purchase spend';$('chart2-title').textContent='Spend by supplier';$('chart3-title').textContent='Supplier spend comparison';$('table-title').textContent='Vendor performance';const spend=r=>+r.items*+r.unit_cost,total=rows.reduce((a,r)=>a+spend(r),0),pos=new Set(rows.map(r=>r.purchase_order)).size,avg=rows.length?rows.reduce((a,r)=>a+(+r.delivery_days),0)/rows.length:0,on=rows.filter(r=>r.status==='On time').length;setK(1,'PURCHASE ORDERS',pos.toLocaleString(),'Unique purchase orders');setK(2,'TOTAL SPEND',money(total),'Estimated purchase cost');setK(3,'AVG. ORDER VALUE',money(pos?total/pos:0),'Spend per purchase order');setK(4,'ON-TIME DELIVERY',rows.length?Math.round(on/rows.length*100)+'%':'0%',avg.toFixed(1)+' day average lead time');const mo=monthAggregate(rows,spend);makeChart('chart1','line',mo.labels,mo.data,'Spend');const vendors=groupSum(rows,'vendor',spend);makeChart('chart2','doughnut',vendors.map(x=>x[0]),vendors.map(x=>x[1]),'Spend');makeChart('chart3','bar',vendors.map(x=>x[0]),vendors.map(x=>x[1]),'Spend',{horizontal:true,colors:COLORS.slice(0,vendors.length)});setTable(['VENDOR','ORDERS','AVG. UNIT COST','AVG. DELIVERY','ON TIME'],vendors.map(([name])=>{const v=rows.filter(r=>r.vendor===name);return[name,v.length,money(v.reduce((a,r)=>a+(+r.unit_cost),0)/v.length), (v.reduce((a,r)=>a+(+r.delivery_days),0)/v.length).toFixed(1)+' days',Math.round(v.filter(r=>r.status==='On time').length/v.length*100)+'%']}))}
 function renderHR(rows){destroyCharts();$('chart1-title').textContent='Monthly attendance rate';$('chart2-title').textContent='Employees by department';$('chart3-title').textContent='Average performance score';$('table-title').textContent='Department summary';const employees=new Set(rows.map(r=>r.employee_id)).size,days=rows.reduce((a,r)=>a+(+r.work_days),0),present=rows.reduce((a,r)=>a+(+r.present_days),0),pay=rows.reduce((a,r)=>a+(+r.monthly_pay),0),score=rows.length?rows.reduce((a,r)=>a+(+r.performance_score),0)/rows.length:0;setK(1,'EMPLOYEE RECORDS',employees.toLocaleString(),'Unique synthetic employee IDs');setK(2,'PAYROLL TOTAL',money(pay),'Monthly pay records in filter');setK(3,'ATTENDANCE RATE',days?Math.round(present/days*100)+'%':'0%',present.toLocaleString()+' days present');setK(4,'AVG. PERFORMANCE',score.toFixed(1),'Synthetic score out of 100');const mo=monthAggregate(rows,r=>+r.present_days/(+r.work_days||1)*100);const months=rows.length?Array.from({length:12},(_,i)=>{const a=rows.filter(r=>+r.month.slice(5,7)-1===i);return a.length?a.reduce((s,r)=>s+(+r.present_days/+r.work_days*100),0)/a.length:0}):Array(12).fill(0);const period=+$('filter-period').value;makeChart('chart1','line',period?monthNames.slice((period-1)*3,period*3):monthNames,period?months.slice((period-1)*3,period*3):months,'Attendance %');const deps=groupSum(rows,'department',()=>1);makeChart('chart2','doughnut',deps.map(x=>x[0]),deps.map(x=>x[1]),'Employees');const sc=groupSum(rows,'department',r=>+r.performance_score).map(([k,v])=>[k,v/(rows.filter(r=>r.department===k).length||1)]).sort((a,b)=>b[1]-a[1]);makeChart('chart3','bar',sc.map(x=>x[0]),sc.map(x=>+x[1].toFixed(1)),'Score',{horizontal:true,colors:COLORS.slice(0,sc.length)});setTable(['DEPARTMENT','EMPLOYEES','AVG. ATTENDANCE','PAYROLL','AVG. SCORE'],deps.map(([name,n])=>{const v=rows.filter(r=>r.department===name),pd=v.reduce((a,r)=>a+(+r.present_days),0),wd=v.reduce((a,r)=>a+(+r.work_days),0);return[name,n,wd?Math.round(pd/wd*100)+'%':'0%',money(v.reduce((a,r)=>a+(+r.monthly_pay),0)),(v.reduce((a,r)=>a+(+r.performance_score),0)/v.length).toFixed(1)]}))}
 function showChartError(){document.querySelectorAll('.chart-canvas').forEach(el=>el.innerHTML='<p style="font-size:11px;color:#8a6670;padding:25px">Dashboard library could not load. Check your connection and refresh.</p>')}
-init();
-const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');observer.unobserve(e.target)}}),{threshold:.08});document.querySelectorAll('.section-heading,.about-text,.about-facts,.skill-card,.education-row,.project-card,.dashboard-shell,.resume-inner>div,.contact-layout>div').forEach(el=>{el.classList.add('reveal');observer.observe(el)});
-const menu=document.querySelector('.menu-toggle'),nav=document.querySelector('.main-nav');menu.addEventListener('click',()=>{const open=nav.classList.toggle('open');menu.setAttribute('aria-expanded',String(open))});nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{nav.classList.remove('open');menu.setAttribute('aria-expanded','false')}));
+function setupRevealAnimations(){
+  if(typeof window==='undefined'||typeof document==='undefined')return;
+  const elements=document.querySelectorAll('.section-heading,.about-text,.about-facts,.skill-card,.education-row,.journey-card,.project-card,.dashboard-shell,.resume-inner>div,.contact-layout>div');
+  elements.forEach(el=>el.classList.add('reveal'));
+  if(typeof IntersectionObserver==='undefined'){
+    // Keep all content visible in older browsers and server-rendered/test environments.
+    elements.forEach(el=>el.classList.add('visible'));
+    return;
+  }
+  const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');observer.unobserve(e.target)}}),{threshold:.08});
+  elements.forEach(el=>observer.observe(el));
+}
+function setupMobileNavigation(){
+  if(typeof window==='undefined'||typeof document==='undefined')return;
+  const menu=document.querySelector('.menu-toggle'),nav=document.querySelector('.main-nav');
+  if(!menu||!nav)return;
+  menu.addEventListener('click',()=>{const open=nav.classList.toggle('open');menu.setAttribute('aria-expanded',String(open))});
+  nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{nav.classList.remove('open');menu.setAttribute('aria-expanded','false')}));
+}
+function startPortfolio(){
+  if(typeof window==='undefined'||typeof document==='undefined')return;
+  init();
+  setupRevealAnimations();
+  setupMobileNavigation();
+}
+function onDOMReady(callback){
+  if(typeof window==='undefined'||typeof document==='undefined')return;
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',callback,{once:true});
+  else callback();
+}
+onDOMReady(startPortfolio);
