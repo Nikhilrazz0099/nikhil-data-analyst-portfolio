@@ -29,7 +29,6 @@ The resume supports basic MS Excel, data handling, and MIS/report preparation, p
 
 ## Contact
 
-Email: nikhilrazz1506@gmail.com
-Phone numbers are intentionally omitted from all public portfolio files.
+Phone numbers and email addresses are intentionally omitted from public portfolio pages. Contact via the professional profile links below.
 LinkedIn: https://www.linkedin.com/in/nikhil-kumar-832544412/
 GitHub: https://github.com/Nikhilrazz0099

@@ -1,82 +1,569 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (mailto:nikhilrazz1506@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 296.0088 742.4047 403.6668 753.2047 ] /Subtype /Link /Type /Annot
+/Annots [ 5 0 R ]
+/Contents 6 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 8 0 R
+/F2 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Annots [ 4 0 R ] /Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI
+/Type /Action
+/URI (mailto\072nikhilrazz1506\100gmail\056com)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 296.0088 742.4047 403.6668 753.2047 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/Length 6014
 >>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 62.69291 772.2047 cm
+q
+0.066667 0.094118 0.152941 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 21 Tf
+24 TL
+157.9589 0 Td
+(NIKHIL KUMAR) Tj
+T*
+-157.9589 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 756.2047 cm
+q
+0.090196 0.219608 0.356863 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 10.5 Tf
+14 TL
+131.2626 0 Td
+(B\056Com Graduate \174 MIS Reporting \174 MS Excel) Tj
+T*
+-131.2626 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 741.2047 cm
+q
+BT
+1 0 0 1 0 3 Tm
+128.9159 0 Td
+12 TL
+/F1 9 Tf
+0.380392 0.439216 0.501961 rg
+0.305882 0.513725 0.74902 rg
+T*
+-128.9159 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 732.0047 cm
+q
+1.2 w
+1 J
+0.090196 0.219608 0.356863 RG
+n
+0 0 m
+469.8898 0 l
+S
+Q
+Q
+q
+1 0 0 1 62.69291 710.0047 cm
+q
+0.090196 0.219608 0.356863 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(PROFESSIONAL SUMMARY) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.4047 cm
+q
+0.145098 0.176471 0.211765 rg
+BT
+1 0 0 1 0 27.4 Tm
+/F1 9.2 Tf
+12.2 TL
+(Commerce graduate with computer knowledge and a foundation in MS Excel\054 data handling\054 documentation and) Tj
+T*
+-0.069322 Tw
+(business reporting\056 Currently pursuing a Data Analytics course to develop analytical and reporting skills\056 Seeking an) Tj
+T*
+0 Tw
+(entry\055level opportunity to apply existing skills\054 gain practical experience and grow professionally\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 647.4047 cm
+q
+0.090196 0.219608 0.356863 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(CORE SKILLS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 631.9047 cm
+q
+BT
+1 0 0 1 9 2.5 Tm
+-8 0 Td
+11.5 TL
+/F1 9 Tf
+0.145098 0.176471 0.211765 rg
+<7f20> Tj
+/F2 9 Tf
+(MS Excel\072) Tj
+/F1 9 Tf
+( Basic Excel knowledge) Tj
+T*
+8 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 618.4047 cm
+q
+BT
+1 0 0 1 9 2.5 Tm
+-8 0 Td
+11.5 TL
+/F1 9 Tf
+0.145098 0.176471 0.211765 rg
+<7f20> Tj
+/F2 9 Tf
+(Data Handling\072) Tj
+/F1 9 Tf
+( Data entry\054 record maintenance and basic data accuracy checks) Tj
+T*
+8 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 604.9047 cm
+q
+BT
+1 0 0 1 9 2.5 Tm
+-8 0 Td
+11.5 TL
+/F1 9 Tf
+0.145098 0.176471 0.211765 rg
+<7f20> Tj
+/F2 9 Tf
+(MIS \046 Reporting\072) Tj
+/F1 9 Tf
+( Basic understanding of data compilation and report preparation) Tj
+T*
+8 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.4047 cm
+q
+BT
+1 0 0 1 9 2.5 Tm
+-8 0 Td
+11.5 TL
+/F1 9 Tf
+0.145098 0.176471 0.211765 rg
+<7f20> Tj
+/F2 9 Tf
+(Computer Skills\072) Tj
+/F1 9 Tf
+( MS Word\054 PowerPoint\054 email management and documentation) Tj
+T*
+8 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 577.9047 cm
+q
+BT
+1 0 0 1 9 2.5 Tm
+-8 0 Td
+11.5 TL
+/F1 9 Tf
+0.145098 0.176471 0.211765 rg
+<7f20> Tj
+/F2 9 Tf
+(Workplace Skills\072) Tj
+/F1 9 Tf
+( Communication\054 teamwork\054 problem\055solving and willingness to learn) Tj
+T*
+8 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 564.4047 cm
+q
+BT
+1 0 0 1 9 2.5 Tm
+-8 0 Td
+11.5 TL
+/F1 9 Tf
+0.145098 0.176471 0.211765 rg
+<7f20> Tj
+/F2 9 Tf
+(Business Operations\072) Tj
+/F1 9 Tf
+( Basic understanding of supply chain\054 inventory and logistics processes) Tj
+T*
+8 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 542.4047 cm
+q
+0.090196 0.219608 0.356863 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(PROFESSIONAL TRAINING) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 526.2047 cm
+q
+0.145098 0.176471 0.211765 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9.2 Tf
+12.2 TL
+(Data Analytics Course \055 Currently Pursuing) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 511.0047 cm
+q
+0.145098 0.176471 0.211765 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 9.2 Tf
+12.2 TL
+(Building knowledge of data analysis and reporting through ongoing training\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.0047 cm
+q
+0.090196 0.219608 0.356863 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(EDUCATION) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 472.8047 cm
+q
+0.145098 0.176471 0.211765 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9.2 Tf
+12.2 TL
+(Bachelor of Commerce \050B\056Com\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 457.6047 cm
+q
+0.145098 0.176471 0.211765 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 9.2 Tf
+12.2 TL
+(Binod Bihari Mahto Koylanchal University \050BBMKU\051\054 Dhanbad\054 Jharkhand \174 2022\0552026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.6047 cm
+q
+0.090196 0.219608 0.356863 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(CERTIFICATIONS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 420.1047 cm
+q
+0.145098 0.176471 0.211765 rg
+BT
+1 0 0 1 9 2.5 Tm
+/F1 9 Tf
+11.5 TL
+-8 0 Td
+<7f2041444341202d20416476616e636564204469706c6f6d6120696e20436f6d7075746572204170706c69636174696f6e> Tj
+T*
+8 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 406.6047 cm
+q
+0.145098 0.176471 0.211765 rg
+BT
+1 0 0 1 9 2.5 Tm
+/F1 9 Tf
+11.5 TL
+-8 0 Td
+<7f204d53204f6666696365204365727469666963617465> Tj
+T*
+8 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.1047 cm
+q
+BT
+1 0 0 1 9 2.5 Tm
+-8 0 Td
+11.5 TL
+/F1 9 Tf
+0.145098 0.176471 0.211765 rg
+<7f20496e7465726e657420262042617369632054726f75626c6573686f6f74696e67> Tj
+T*
+8 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 371.1047 cm
+q
+0.090196 0.219608 0.356863 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(RELEVANT COURSEWORK) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.9047 cm
+q
+BT
+1 0 0 1 0 3 Tm
+12.2 TL
+/F1 9.2 Tf
+0.145098 0.176471 0.211765 rg
+<4163636f756e74696e67202620426f6f6b6b656570696e6720426173696373207f20476f6f647320616e6420536572766963657320546178202847535429207f20537461746973746963616c20416e616c79736973> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.7047 cm
+q
+0.145098 0.176471 0.211765 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 9.2 Tf
+12.2 TL
+<427573696e65737320456e7669726f6e6d656e7420616e64204c6567616c204672616d65776f726b207f20537472617465676963204d616e6167656d656e74> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 317.7047 cm
+q
+0.090196 0.219608 0.356863 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(ADDITIONAL INFORMATION) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 301.5047 cm
+q
+0.145098 0.176471 0.211765 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 9.2 Tf
+12.2 TL
+(Languages\072 Hindi \050Native\051\054 English \050Working Proficiency\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 286.3047 cm
+q
+0.145098 0.176471 0.211765 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 9.2 Tf
+12.2 TL
+(Current Location\072 Bengaluru\054 Karnataka \174 Willing to relocate) Tj
+T*
+ET
+Q
+Q
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+0.321569 0.388235 0.478431 rg
+BT
+1 0 0 1 213.1728 744.8898 Tm
+(Bengaluru\054 Karnataka  \174  LinkedIn \057 GitHub) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 7 0 obj
 <<
-/Author (Nikhil Kumar) /CreationDate (D:20261030123550-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261030123550-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (Public resume with email contact; phone numbers omitted) /Title (Nikhil Kumar - Public Resume) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1925
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GauHLgN):C&:O:SoMZ*pYbKNNq\6iub8M<)jD:[804Q^P$:7*L&iNtkn`^o_>h7)%)\YT($Jf=>RI37e"p-i7M)pA!J8PA%>nA+_"HPf!c%9=/rSZb/'2h!X(n0J(4os7m1de`WHk1.2\q;(@1u5VHnN\>-J\OH<-TEI+9OgDn^aT[GLn)=Y'+ipKI,"8_IP?K,c/@mI?jKhXf:DF\"Fif./"GukK96)Jn+U5Cc5nND-b]\OJO^_hRC;-9k"AgF>lmC]])4/5.qg9W%**<:BO.a\(N:he[%KF3YAcXl^mH^aaQ#+?k7d&DLFh-<hAbAX\1P"=qrO7Y_pa!B=8ZW[L'k(:Z"g/6S%\olKh$`:D95ta5!ijq7$BqOD7H;aV)b)F!/(]P5\d06HQKn:'@SgTcs4cG%J=HScY%5Aka*s@et(]n"cX0IjGPV#4]"?cB,[5Q+brJE#p9"c0KeC=P>mOH!6amicgs:^8RQRX!fWTIdnr'hW#J"CDU_n"j3^;F1)Z$g3^]:i?"55\<O4k_dm:(d('UsZh3Xtr3gNDa)Z40]7,c9D/!J<2b/uLs(#Tj>gOb9D5uac;;k2/6A$@M)-=EG9Vh@bh"uMkPKh#IF;jt`hKfIm6@iOnUKc*(<@%-((%uUTaoC>Jc]SS$hUZ7gJcMdsKLE_XTQ=V3(%+h.R#_?n@CKM>r.qI4031%O,;OX]Y36VpThI;RfR'IH"p_'JQn'ON(h2DTl4AM&5K*c%/2-*mJd1leS9!$>O3=PDRI&ffuHnEC9b9`ljcZ-BL;B$g;ba3p9j`Kj7a[FA$Y[!nnn0bll+-@=ZVb+2F)?eW3G6@a)o]hFUI@+7KL;QT8a\bA%mjWlrcZ&#HWh<tWeV/W)#d&I5\toI!JElZ*SM2.cld[[@kgD!lbBr!6X.amDQ+o]!S`T`U)5p7,==*eO)X=ItWA`mHaMeiie'ab_Zqc\f`Dk@q%Dr8=BFWpZL%DB+?/9h9J78?NA_V_F`!nSTM(D/CZ;C=+8Pb47S89ID.S;6%[\Q5qDTpc,aa43$=%hF=eb]`oR)5IMY&1]1:JBPaN,BT%ls(CmPX\@3T&R@0K$C:+mX#*RH-DT]`PamS<H\V3_b`($6dFoT$/]GiJU9r?i[j-3W`7Lt2NC2VK[Op@c\.u0B[5>:hCHCt]'5/M\.u?:`"/Yd<iD;qcEO2#fDnti>qX]cI_m>_.'Pelie09TCL5ArAK4_LpY81kmL3t;2j^^,!o)A6[LMWC`c6Lo/\YrQ]s;@Em<&-XWl$cGL(*bT$LO\Wkn\95K"CV6[;%-<Oi?!44sHU*?:6U-BuJQ4^`8Gjj`TpUk9&59p<W2RSH+;s?u"IaH,khVQXZjb\<)WVEK9eTVWIfa!?Bm)3Cf$;SFS+Niu&Rd>gjRjc4s\6fP5&4bjNo(L#ji0*('!u?esP1[c&3#l2sKNre,47V.7K8MP2!/)'5:P'MNk?_V:VbIiJkL#%^%=Qo3(62=cr(k\oXf'Wr5!>#\.gm%!f2=J)/K9"L9:SB&g+0;s!hS$(C0"frV/@sPD&kGQ5S'Jm2XdGn_qH.ZV/WK.ZrF5ps1k0@]_\*XUNp5,$qkb$"@&tjhaf?@isk<#F43_5V(LA]:F2sq4RIs,]2k`,#MPQ'amq!.Ob1[P:9F7]-W[f+CBXOA8n:aa1E>cO#'Q\Y2.S?\nQ;bNC,>/<kWVkjl!QrmdU1C32#<qGDu\3DR;R7M[iQ!:Lg-/B$_R(h](Z^k']U7\St_:+AI*3oii>mS#LdQ#d=d<;`"1ZE^j(`P^emOmQZB0k_YHk;MP@;p9B)IGF>.Ai-c*,k(r1lViIK^8egN6u<IFDik-.ji6HT12DBc1%1/W\Q_TEG$;IEkB#&dVoW@dELX%Xdfb-H)Z<9i4FJfI>-"D(R@6e@)LdMU^AZCr!PPR5.:~>endstream
 endobj
 xref
 0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000504 00000 n 
-0000000725 00000 n 
-0000000793 00000 n 
-0000001127 00000 n 
-0000001186 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000411 00000 n 
+0000000603 00000 n 
+0000006669 00000 n 
+0000006776 00000 n 
+0000006883 00000 n 
 trailer
 <<
-/ID 
-[<c45c23258340c4ab649cbb3b3fc7e1c3><c45c23258340c4ab649cbb3b3fc7e1c3>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
 /Size 10
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-3202
+6995
 %%EOF
