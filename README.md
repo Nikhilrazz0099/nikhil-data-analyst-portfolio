@@ -1,6 +1,6 @@
 # Nikhil Kumar | Data Analyst Portfolio
 
-A responsive, single-page portfolio for entry-level Data Analyst and MIS Analyst applications. Built with semantic HTML, CSS, vanilla JavaScript, and Chart.js.
+A responsive, single-page portfolio for entry-level Data Analyst and MIS Analyst applications, with a minimalist green visual system and synthetic-data dashboards. Built with semantic HTML, CSS, vanilla JavaScript, and Chart.js.
 
 ## Run locally
 
@@ -14,6 +14,8 @@ A local server is needed because dashboard datasets are loaded from `data/` usin
 
 - Verified resume details, education, certifications, skills, and contact information.
 - Three interactive case studies with CSV datasets in `data/`.
+- Experience section that clearly describes entry-level status without inventing past roles.
+- Verified LinkedIn and GitHub profile links.
 - Filters for date range, product category, vendor, and department, depending on the dashboard.
 - Resume view and download at `assets/Nikhil_Kumar_Resume_Public.pdf`.
 
@@ -28,5 +30,6 @@ The resume supports basic MS Excel, data handling, and MIS/report preparation, p
 ## Contact
 
 Email: nikhilrazz1506@gmail.com
-
-No LinkedIn or GitHub profile URL was present in the resume.
+Phone numbers are intentionally omitted from all public portfolio files.
+LinkedIn: https://www.linkedin.com/in/nikhil-kumar-832544412/
+GitHub: https://github.com/Nikhilrazz0099
