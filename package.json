@@ -1,0 +1,7 @@
+{
+  "name": "nikhil-kumar-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive data analyst portfolio with synthetic analytics case studies.",
+  "scripts": { "start": "node server.js" }
+}

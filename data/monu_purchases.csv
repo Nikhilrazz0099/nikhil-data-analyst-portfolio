@@ -1,0 +1,181 @@
+date,purchase_order,vendor,category,items,unit_cost,delivery_days,status
+2025-01-14,PO-25001,Evergreen Partners,Lifestyle,47,226,2,On time
+2025-02-23,PO-25002,BluePeak Traders,Lifestyle,90,226,2,On time
+2025-03-23,PO-25003,Delta Distribution,Lifestyle,74,226,8,Delayed
+2025-04-05,PO-25004,Aster Supplies,Office,72,48,5,On time
+2025-05-06,PO-25005,Delta Distribution,Electronics,176,410,8,Delayed
+2025-06-12,PO-25006,BluePeak Traders,Electronics,92,65,3,On time
+2025-07-20,PO-25007,Evergreen Partners,Office,69,226,9,Delayed
+2025-08-10,PO-25008,Evergreen Partners,Lifestyle,17,48,3,On time
+2025-09-16,PO-25009,Cedar Wholesale,Electronics,59,65,11,Delayed
+2025-10-19,PO-25010,Evergreen Partners,Electronics,46,65,9,Delayed
+2025-11-20,PO-25011,Delta Distribution,Electronics,117,48,6,On time
+2025-12-17,PO-25012,Cedar Wholesale,Electronics,168,48,4,On time
+2025-01-15,PO-25013,Delta Distribution,Office,35,48,9,Delayed
+2025-02-07,PO-25014,BluePeak Traders,Stationery,171,48,8,Delayed
+2025-03-16,PO-25015,Aster Supplies,Lifestyle,16,275,8,Delayed
+2025-04-08,PO-25016,Aster Supplies,Stationery,88,48,4,On time
+2025-05-04,PO-25017,Evergreen Partners,Office,37,128,12,Delayed
+2025-06-17,PO-25018,BluePeak Traders,Office,98,275,6,On time
+2025-07-16,PO-25019,Delta Distribution,Electronics,73,410,6,On time
+2025-08-21,PO-25020,Cedar Wholesale,Lifestyle,111,128,6,On time
+2025-09-12,PO-25021,BluePeak Traders,Electronics,111,410,11,Delayed
+2025-10-03,PO-25022,Delta Distribution,Electronics,159,410,6,On time
+2025-11-26,PO-25023,Aster Supplies,Lifestyle,134,410,3,On time
+2025-12-02,PO-25024,Aster Supplies,Stationery,19,410,2,On time
+2025-01-17,PO-25025,BluePeak Traders,Stationery,47,48,5,On time
+2025-02-26,PO-25026,Evergreen Partners,Stationery,151,128,9,Delayed
+2025-03-04,PO-25027,Delta Distribution,Stationery,121,128,5,On time
+2025-04-11,PO-25028,BluePeak Traders,Electronics,101,275,6,On time
+2025-05-26,PO-25029,Cedar Wholesale,Electronics,21,65,6,On time
+2025-06-11,PO-25030,Aster Supplies,Lifestyle,28,226,7,On time
+2025-07-10,PO-25031,Evergreen Partners,Electronics,35,48,8,Delayed
+2025-08-28,PO-25032,BluePeak Traders,Stationery,24,410,12,Delayed
+2025-09-18,PO-25033,Delta Distribution,Office,106,48,12,Delayed
+2025-10-04,PO-25034,Cedar Wholesale,Electronics,92,48,7,On time
+2025-11-03,PO-25035,Delta Distribution,Lifestyle,179,48,4,On time
+2025-12-11,PO-25036,BluePeak Traders,Office,42,48,6,On time
+2025-01-26,PO-25037,Aster Supplies,Stationery,28,275,4,On time
+2025-02-10,PO-25038,Evergreen Partners,Office,34,128,2,On time
+2025-03-14,PO-25039,Cedar Wholesale,Office,73,275,3,On time
+2025-04-25,PO-25040,Evergreen Partners,Office,171,275,7,On time
+2025-05-23,PO-25041,BluePeak Traders,Office,122,48,2,On time
+2025-06-17,PO-25042,Evergreen Partners,Electronics,37,275,11,Delayed
+2025-07-16,PO-25043,Delta Distribution,Electronics,112,65,12,Delayed
+2025-08-26,PO-25044,Delta Distribution,Office,114,48,5,On time
+2025-09-14,PO-25045,Evergreen Partners,Office,154,48,5,On time
+2025-10-23,PO-25046,Delta Distribution,Lifestyle,130,226,7,On time
+2025-11-06,PO-25047,Evergreen Partners,Electronics,36,65,4,On time
+2025-12-21,PO-25048,Cedar Wholesale,Electronics,140,410,5,On time
+2025-01-04,PO-25049,Delta Distribution,Electronics,160,410,10,Delayed
+2025-02-09,PO-25050,Aster Supplies,Lifestyle,80,275,10,Delayed
+2025-03-07,PO-25051,Cedar Wholesale,Electronics,146,275,10,Delayed
+2025-04-15,PO-25052,Cedar Wholesale,Stationery,42,410,2,On time
+2025-05-23,PO-25053,Cedar Wholesale,Office,115,65,11,Delayed
+2025-06-28,PO-25054,Cedar Wholesale,Office,90,128,6,On time
+2025-07-13,PO-25055,Cedar Wholesale,Stationery,21,410,6,On time
+2025-08-07,PO-25056,Cedar Wholesale,Electronics,88,226,7,On time
+2025-09-21,PO-25057,Evergreen Partners,Lifestyle,152,65,4,On time
+2025-10-09,PO-25058,Delta Distribution,Lifestyle,137,65,4,On time
+2025-11-01,PO-25059,Aster Supplies,Office,122,65,3,On time
+2025-12-10,PO-25060,Delta Distribution,Electronics,51,48,2,On time
+2025-01-07,PO-25061,BluePeak Traders,Lifestyle,130,65,9,Delayed
+2025-02-11,PO-25062,BluePeak Traders,Office,168,128,2,On time
+2025-03-13,PO-25063,Evergreen Partners,Office,15,128,8,Delayed
+2025-04-19,PO-25064,Delta Distribution,Stationery,94,128,12,Delayed
+2025-05-25,PO-25065,Aster Supplies,Office,38,65,12,Delayed
+2025-06-18,PO-25066,Aster Supplies,Stationery,28,410,8,Delayed
+2025-07-08,PO-25067,Aster Supplies,Stationery,128,275,9,Delayed
+2025-08-03,PO-25068,Evergreen Partners,Stationery,58,65,11,Delayed
+2025-09-25,PO-25069,Cedar Wholesale,Office,15,275,3,On time
+2025-10-12,PO-25070,BluePeak Traders,Stationery,104,410,5,On time
+2025-11-25,PO-25071,BluePeak Traders,Stationery,40,65,3,On time
+2025-12-21,PO-25072,Evergreen Partners,Electronics,163,65,3,On time
+2025-01-09,PO-25073,BluePeak Traders,Electronics,135,128,5,On time
+2025-02-26,PO-25074,Delta Distribution,Lifestyle,20,128,5,On time
+2025-03-14,PO-25075,Delta Distribution,Electronics,151,275,3,On time
+2025-04-28,PO-25076,Delta Distribution,Lifestyle,109,48,9,Delayed
+2025-05-18,PO-25077,Delta Distribution,Office,175,128,7,On time
+2025-06-16,PO-25078,Aster Supplies,Stationery,59,410,6,On time
+2025-07-09,PO-25079,Cedar Wholesale,Electronics,27,48,11,Delayed
+2025-08-10,PO-25080,Delta Distribution,Electronics,49,410,2,On time
+2025-09-03,PO-25081,Delta Distribution,Lifestyle,144,65,6,On time
+2025-10-28,PO-25082,Cedar Wholesale,Electronics,150,128,10,Delayed
+2025-11-18,PO-25083,Delta Distribution,Office,94,48,10,Delayed
+2025-12-10,PO-25084,Cedar Wholesale,Electronics,140,65,7,On time
+2025-01-11,PO-25085,Aster Supplies,Stationery,45,275,10,Delayed
+2025-02-14,PO-25086,Evergreen Partners,Electronics,150,48,5,On time
+2025-03-17,PO-25087,Delta Distribution,Electronics,74,410,4,On time
+2025-04-02,PO-25088,Cedar Wholesale,Lifestyle,147,410,2,On time
+2025-05-25,PO-25089,Aster Supplies,Lifestyle,66,226,4,On time
+2025-06-01,PO-25090,BluePeak Traders,Electronics,107,226,11,Delayed
+2025-07-03,PO-25091,Delta Distribution,Electronics,73,65,9,Delayed
+2025-08-02,PO-25092,Evergreen Partners,Lifestyle,91,65,6,On time
+2025-09-28,PO-25093,Aster Supplies,Lifestyle,99,48,9,Delayed
+2025-10-06,PO-25094,Delta Distribution,Lifestyle,75,65,4,On time
+2025-11-18,PO-25095,Cedar Wholesale,Office,169,226,9,Delayed
+2025-12-06,PO-25096,Delta Distribution,Lifestyle,180,275,9,Delayed
+2025-01-03,PO-25097,Delta Distribution,Lifestyle,69,275,10,Delayed
+2025-02-03,PO-25098,Cedar Wholesale,Stationery,42,226,9,Delayed
+2025-03-16,PO-25099,Evergreen Partners,Electronics,67,226,8,Delayed
+2025-04-21,PO-25100,Evergreen Partners,Stationery,167,410,2,On time
+2025-05-13,PO-25101,Evergreen Partners,Electronics,62,128,4,On time
+2025-06-12,PO-25102,Evergreen Partners,Lifestyle,70,226,6,On time
+2025-07-28,PO-25103,Aster Supplies,Office,80,128,7,On time
+2025-08-24,PO-25104,Evergreen Partners,Office,87,48,7,On time
+2025-09-25,PO-25105,Evergreen Partners,Lifestyle,23,410,12,Delayed
+2025-10-07,PO-25106,Evergreen Partners,Lifestyle,178,65,3,On time
+2025-11-17,PO-25107,Aster Supplies,Office,46,65,9,Delayed
+2025-12-12,PO-25108,Delta Distribution,Office,59,128,10,Delayed
+2025-01-14,PO-25109,Cedar Wholesale,Office,149,128,6,On time
+2025-02-24,PO-25110,Evergreen Partners,Lifestyle,148,48,2,On time
+2025-03-21,PO-25111,Cedar Wholesale,Electronics,173,226,8,Delayed
+2025-04-28,PO-25112,Aster Supplies,Electronics,164,226,4,On time
+2025-05-16,PO-25113,Delta Distribution,Stationery,137,410,2,On time
+2025-06-09,PO-25114,Delta Distribution,Stationery,64,65,7,On time
+2025-07-09,PO-25115,Aster Supplies,Lifestyle,17,275,6,On time
+2025-08-07,PO-25116,Aster Supplies,Office,47,410,3,On time
+2025-09-26,PO-25117,BluePeak Traders,Stationery,45,128,5,On time
+2025-10-04,PO-25118,Cedar Wholesale,Lifestyle,24,65,11,Delayed
+2025-11-26,PO-25119,BluePeak Traders,Lifestyle,142,275,3,On time
+2025-12-23,PO-25120,BluePeak Traders,Lifestyle,19,65,4,On time
+2025-01-08,PO-25121,BluePeak Traders,Office,37,226,6,On time
+2025-02-14,PO-25122,BluePeak Traders,Stationery,172,410,11,Delayed
+2025-03-08,PO-25123,Cedar Wholesale,Stationery,129,128,4,On time
+2025-04-28,PO-25124,Evergreen Partners,Electronics,76,226,8,Delayed
+2025-05-21,PO-25125,BluePeak Traders,Stationery,97,226,2,On time
+2025-06-16,PO-25126,Evergreen Partners,Lifestyle,80,226,8,Delayed
+2025-07-20,PO-25127,Aster Supplies,Stationery,125,275,9,Delayed
+2025-08-12,PO-25128,Evergreen Partners,Stationery,41,128,11,Delayed
+2025-09-24,PO-25129,Evergreen Partners,Lifestyle,61,410,12,Delayed
+2025-10-10,PO-25130,BluePeak Traders,Stationery,166,128,4,On time
+2025-11-28,PO-25131,Aster Supplies,Office,46,48,5,On time
+2025-12-25,PO-25132,BluePeak Traders,Lifestyle,126,65,8,Delayed
+2025-01-18,PO-25133,Aster Supplies,Electronics,63,128,4,On time
+2025-02-16,PO-25134,Aster Supplies,Stationery,121,275,5,On time
+2025-03-13,PO-25135,BluePeak Traders,Lifestyle,175,65,10,Delayed
+2025-04-17,PO-25136,Delta Distribution,Office,142,128,7,On time
+2025-05-28,PO-25137,Cedar Wholesale,Office,36,275,2,On time
+2025-06-06,PO-25138,Aster Supplies,Electronics,87,410,5,On time
+2025-07-02,PO-25139,Aster Supplies,Office,136,410,2,On time
+2025-08-21,PO-25140,Delta Distribution,Office,76,410,8,Delayed
+2025-09-07,PO-25141,BluePeak Traders,Lifestyle,24,65,4,On time
+2025-10-21,PO-25142,Cedar Wholesale,Stationery,44,410,7,On time
+2025-11-06,PO-25143,BluePeak Traders,Electronics,80,128,5,On time
+2025-12-03,PO-25144,Cedar Wholesale,Lifestyle,125,65,12,Delayed
+2025-01-17,PO-25145,Evergreen Partners,Electronics,71,275,5,On time
+2025-02-24,PO-25146,Evergreen Partners,Electronics,45,410,9,Delayed
+2025-03-21,PO-25147,Cedar Wholesale,Stationery,18,226,5,On time
+2025-04-13,PO-25148,Aster Supplies,Lifestyle,115,226,8,Delayed
+2025-05-11,PO-25149,Evergreen Partners,Electronics,83,65,8,Delayed
+2025-06-09,PO-25150,BluePeak Traders,Office,155,410,3,On time
+2025-07-15,PO-25151,Evergreen Partners,Electronics,129,275,3,On time
+2025-08-27,PO-25152,Cedar Wholesale,Stationery,70,410,11,Delayed
+2025-09-15,PO-25153,Evergreen Partners,Lifestyle,19,65,4,On time
+2025-10-26,PO-25154,Aster Supplies,Stationery,93,48,7,On time
+2025-11-27,PO-25155,BluePeak Traders,Lifestyle,26,65,3,On time
+2025-12-20,PO-25156,Evergreen Partners,Lifestyle,99,128,9,Delayed
+2025-01-19,PO-25157,Aster Supplies,Electronics,163,128,4,On time
+2025-02-07,PO-25158,Cedar Wholesale,Office,162,410,12,Delayed
+2025-03-20,PO-25159,Cedar Wholesale,Electronics,67,410,2,On time
+2025-04-26,PO-25160,Delta Distribution,Stationery,149,65,9,Delayed
+2025-05-27,PO-25161,Delta Distribution,Stationery,109,128,7,On time
+2025-06-25,PO-25162,BluePeak Traders,Stationery,36,410,12,Delayed
+2025-07-18,PO-25163,BluePeak Traders,Office,90,226,9,Delayed
+2025-08-11,PO-25164,Delta Distribution,Stationery,20,48,12,Delayed
+2025-09-19,PO-25165,Delta Distribution,Office,91,65,3,On time
+2025-10-17,PO-25166,Evergreen Partners,Lifestyle,93,128,12,Delayed
+2025-11-05,PO-25167,Cedar Wholesale,Lifestyle,87,48,7,On time
+2025-12-17,PO-25168,Delta Distribution,Lifestyle,18,65,8,Delayed
+2025-01-15,PO-25169,Aster Supplies,Electronics,25,226,2,On time
+2025-02-25,PO-25170,BluePeak Traders,Stationery,66,226,4,On time
+2025-03-24,PO-25171,Evergreen Partners,Lifestyle,92,275,3,On time
+2025-04-17,PO-25172,Delta Distribution,Office,133,48,10,Delayed
+2025-05-05,PO-25173,Aster Supplies,Electronics,69,65,11,Delayed
+2025-06-15,PO-25174,Aster Supplies,Office,31,128,3,On time
+2025-07-06,PO-25175,Cedar Wholesale,Electronics,17,65,3,On time
+2025-08-04,PO-25176,Evergreen Partners,Lifestyle,152,226,3,On time
+2025-09-07,PO-25177,Aster Supplies,Lifestyle,141,226,6,On time
+2025-10-11,PO-25178,Evergreen Partners,Stationery,89,410,3,On time
+2025-11-26,PO-25179,Cedar Wholesale,Office,141,410,10,Delayed
+2025-12-23,PO-25180,Cedar Wholesale,Lifestyle,24,128,4,On time

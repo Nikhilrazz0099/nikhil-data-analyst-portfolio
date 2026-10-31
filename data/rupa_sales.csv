@@ -1,0 +1,241 @@
+date,product,category,units,unit_price,unit_cost,stock_on_hand
+2025-01-08,USB Hub,Electronics,12,430,275,33
+2025-01-23,USB Hub,Electronics,20,430,275,48
+2025-01-28,Backpack,Lifestyle,14,650,410,105
+2025-01-22,Notebook,Stationery,9,48,29,119
+2025-01-05,Notebook,Stationery,16,48,29,31
+2025-01-09,LED Desk Lamp,Electronics,7,890,590,95
+2025-01-26,Notebook,Stationery,5,48,29,87
+2025-01-28,Notebook,Stationery,15,48,29,48
+2025-01-24,Water Bottle,Lifestyle,4,180,102,58
+2025-01-18,Printer Paper,Office,6,310,226,97
+2025-01-04,Notebook,Stationery,5,48,29,128
+2025-01-06,Desk Organizer,Office,24,220,128,18
+2025-01-08,Backpack,Lifestyle,12,650,410,91
+2025-01-19,Notebook,Stationery,21,48,29,35
+2025-01-10,USB Hub,Electronics,3,430,275,63
+2025-01-22,Desk Organizer,Office,5,220,128,23
+2025-01-22,USB Hub,Electronics,2,430,275,96
+2025-01-08,Printer Paper,Office,14,310,226,14
+2025-01-03,Gel Pen Pack,Stationery,6,65,34,70
+2025-01-18,USB Hub,Electronics,15,430,275,107
+2025-02-01,Backpack,Lifestyle,19,650,410,124
+2025-02-15,Notebook,Stationery,22,48,29,53
+2025-02-26,Desk Organizer,Office,6,220,128,20
+2025-02-28,Notebook,Stationery,23,48,29,121
+2025-02-23,Gel Pen Pack,Stationery,23,65,34,28
+2025-02-23,USB Hub,Electronics,22,430,275,107
+2025-02-17,Gel Pen Pack,Stationery,21,65,34,65
+2025-02-08,Gel Pen Pack,Stationery,9,65,34,67
+2025-02-22,LED Desk Lamp,Electronics,16,890,590,104
+2025-02-03,USB Hub,Electronics,16,430,275,135
+2025-02-07,Backpack,Lifestyle,19,650,410,130
+2025-02-13,Water Bottle,Lifestyle,10,180,102,126
+2025-02-13,LED Desk Lamp,Electronics,21,890,590,112
+2025-02-24,Backpack,Lifestyle,16,650,410,22
+2025-02-06,Water Bottle,Lifestyle,19,180,102,39
+2025-02-06,Notebook,Stationery,9,48,29,72
+2025-02-08,Water Bottle,Lifestyle,4,180,102,82
+2025-02-11,Desk Organizer,Office,17,220,128,27
+2025-02-22,Water Bottle,Lifestyle,14,180,102,104
+2025-02-20,Gel Pen Pack,Stationery,16,65,34,106
+2025-03-25,Water Bottle,Lifestyle,19,180,102,75
+2025-03-09,USB Hub,Electronics,13,430,275,117
+2025-03-06,LED Desk Lamp,Electronics,2,890,590,87
+2025-03-05,Desk Organizer,Office,22,220,128,77
+2025-03-24,Desk Organizer,Office,15,220,128,112
+2025-03-17,Gel Pen Pack,Stationery,3,65,34,97
+2025-03-22,LED Desk Lamp,Electronics,8,890,590,63
+2025-03-05,Backpack,Lifestyle,11,650,410,45
+2025-03-08,USB Hub,Electronics,21,430,275,118
+2025-03-09,Gel Pen Pack,Stationery,24,65,34,91
+2025-03-13,USB Hub,Electronics,11,430,275,114
+2025-03-28,Printer Paper,Office,24,310,226,42
+2025-03-16,Gel Pen Pack,Stationery,18,65,34,88
+2025-03-16,Printer Paper,Office,9,310,226,35
+2025-03-03,Printer Paper,Office,11,310,226,43
+2025-03-19,Printer Paper,Office,17,310,226,117
+2025-03-20,USB Hub,Electronics,3,430,275,117
+2025-03-07,Notebook,Stationery,22,48,29,64
+2025-03-12,Printer Paper,Office,12,310,226,86
+2025-03-28,Desk Organizer,Office,15,220,128,14
+2025-04-28,Water Bottle,Lifestyle,7,180,102,90
+2025-04-01,USB Hub,Electronics,6,430,275,95
+2025-04-08,USB Hub,Electronics,2,430,275,117
+2025-04-01,Backpack,Lifestyle,21,650,410,83
+2025-04-24,Water Bottle,Lifestyle,14,180,102,35
+2025-04-11,Notebook,Stationery,18,48,29,87
+2025-04-03,Desk Organizer,Office,17,220,128,84
+2025-04-12,Notebook,Stationery,8,48,29,35
+2025-04-03,Backpack,Lifestyle,17,650,410,108
+2025-04-23,Printer Paper,Office,2,310,226,51
+2025-04-13,Gel Pen Pack,Stationery,11,65,34,115
+2025-04-27,Gel Pen Pack,Stationery,19,65,34,126
+2025-04-15,LED Desk Lamp,Electronics,23,890,590,108
+2025-04-26,LED Desk Lamp,Electronics,18,890,590,34
+2025-04-12,Gel Pen Pack,Stationery,4,65,34,61
+2025-04-28,LED Desk Lamp,Electronics,7,890,590,70
+2025-04-06,Desk Organizer,Office,10,220,128,129
+2025-04-27,Gel Pen Pack,Stationery,4,65,34,13
+2025-04-11,LED Desk Lamp,Electronics,11,890,590,53
+2025-04-02,Notebook,Stationery,8,48,29,127
+2025-05-04,USB Hub,Electronics,24,430,275,126
+2025-05-24,Notebook,Stationery,6,48,29,47
+2025-05-06,Backpack,Lifestyle,13,650,410,108
+2025-05-25,Printer Paper,Office,18,310,226,125
+2025-05-22,USB Hub,Electronics,17,430,275,44
+2025-05-23,Backpack,Lifestyle,20,650,410,32
+2025-05-25,Water Bottle,Lifestyle,2,180,102,47
+2025-05-27,Notebook,Stationery,8,48,29,97
+2025-05-10,LED Desk Lamp,Electronics,11,890,590,44
+2025-05-10,Backpack,Lifestyle,10,650,410,23
+2025-05-19,Gel Pen Pack,Stationery,10,65,34,51
+2025-05-18,Desk Organizer,Office,14,220,128,82
+2025-05-21,Notebook,Stationery,13,48,29,133
+2025-05-26,Water Bottle,Lifestyle,13,180,102,65
+2025-05-21,Printer Paper,Office,15,310,226,40
+2025-05-02,Notebook,Stationery,8,48,29,49
+2025-05-06,LED Desk Lamp,Electronics,2,890,590,75
+2025-05-03,USB Hub,Electronics,24,430,275,77
+2025-05-02,Printer Paper,Office,21,310,226,120
+2025-05-13,Gel Pen Pack,Stationery,22,65,34,70
+2025-06-24,Gel Pen Pack,Stationery,19,65,34,126
+2025-06-27,Gel Pen Pack,Stationery,24,65,34,110
+2025-06-22,Notebook,Stationery,4,48,29,84
+2025-06-14,Backpack,Lifestyle,16,650,410,61
+2025-06-05,Backpack,Lifestyle,3,650,410,91
+2025-06-13,Gel Pen Pack,Stationery,19,65,34,61
+2025-06-07,LED Desk Lamp,Electronics,17,890,590,59
+2025-06-23,Gel Pen Pack,Stationery,18,65,34,77
+2025-06-23,Desk Organizer,Office,23,220,128,49
+2025-06-21,Water Bottle,Lifestyle,7,180,102,46
+2025-06-16,Backpack,Lifestyle,17,650,410,106
+2025-06-17,Gel Pen Pack,Stationery,9,65,34,40
+2025-06-27,Desk Organizer,Office,2,220,128,96
+2025-06-26,Gel Pen Pack,Stationery,4,65,34,126
+2025-06-26,Backpack,Lifestyle,12,650,410,43
+2025-06-09,Desk Organizer,Office,6,220,128,30
+2025-06-19,Desk Organizer,Office,13,220,128,12
+2025-06-03,Printer Paper,Office,4,310,226,21
+2025-06-21,Gel Pen Pack,Stationery,13,65,34,30
+2025-06-09,Gel Pen Pack,Stationery,8,65,34,58
+2025-07-05,Water Bottle,Lifestyle,4,180,102,124
+2025-07-06,Backpack,Lifestyle,4,650,410,107
+2025-07-23,Gel Pen Pack,Stationery,7,65,34,70
+2025-07-07,Water Bottle,Lifestyle,19,180,102,44
+2025-07-10,Printer Paper,Office,8,310,226,22
+2025-07-28,LED Desk Lamp,Electronics,18,890,590,65
+2025-07-15,Printer Paper,Office,13,310,226,73
+2025-07-20,LED Desk Lamp,Electronics,14,890,590,109
+2025-07-04,Backpack,Lifestyle,6,650,410,14
+2025-07-10,Printer Paper,Office,6,310,226,67
+2025-07-28,Printer Paper,Office,16,310,226,31
+2025-07-08,Printer Paper,Office,12,310,226,23
+2025-07-04,LED Desk Lamp,Electronics,4,890,590,81
+2025-07-09,Backpack,Lifestyle,11,650,410,121
+2025-07-07,Water Bottle,Lifestyle,12,180,102,132
+2025-07-21,Notebook,Stationery,18,48,29,127
+2025-07-24,Printer Paper,Office,23,310,226,87
+2025-07-20,USB Hub,Electronics,4,430,275,101
+2025-07-24,Printer Paper,Office,9,310,226,24
+2025-07-13,USB Hub,Electronics,6,430,275,93
+2025-08-04,Desk Organizer,Office,19,220,128,14
+2025-08-08,Printer Paper,Office,21,310,226,36
+2025-08-27,USB Hub,Electronics,12,430,275,63
+2025-08-14,Water Bottle,Lifestyle,24,180,102,126
+2025-08-09,Printer Paper,Office,11,310,226,62
+2025-08-25,Notebook,Stationery,15,48,29,119
+2025-08-12,Backpack,Lifestyle,8,650,410,35
+2025-08-26,Desk Organizer,Office,3,220,128,53
+2025-08-02,USB Hub,Electronics,24,430,275,123
+2025-08-18,Printer Paper,Office,3,310,226,88
+2025-08-09,Printer Paper,Office,15,310,226,132
+2025-08-18,Desk Organizer,Office,23,220,128,68
+2025-08-14,Desk Organizer,Office,16,220,128,110
+2025-08-26,Gel Pen Pack,Stationery,9,65,34,73
+2025-08-07,Notebook,Stationery,4,48,29,30
+2025-08-02,Backpack,Lifestyle,3,650,410,97
+2025-08-22,LED Desk Lamp,Electronics,23,890,590,91
+2025-08-12,Notebook,Stationery,21,48,29,71
+2025-08-11,LED Desk Lamp,Electronics,10,890,590,59
+2025-08-19,Water Bottle,Lifestyle,4,180,102,38
+2025-09-14,Notebook,Stationery,2,48,29,81
+2025-09-26,USB Hub,Electronics,2,430,275,22
+2025-09-01,Printer Paper,Office,6,310,226,80
+2025-09-22,Desk Organizer,Office,17,220,128,62
+2025-09-21,Notebook,Stationery,19,48,29,25
+2025-09-05,Gel Pen Pack,Stationery,22,65,34,71
+2025-09-07,Water Bottle,Lifestyle,21,180,102,99
+2025-09-23,Desk Organizer,Office,5,220,128,110
+2025-09-06,USB Hub,Electronics,6,430,275,18
+2025-09-27,Gel Pen Pack,Stationery,7,65,34,16
+2025-09-13,Notebook,Stationery,5,48,29,54
+2025-09-09,Gel Pen Pack,Stationery,19,65,34,131
+2025-09-28,Backpack,Lifestyle,3,650,410,35
+2025-09-27,LED Desk Lamp,Electronics,10,890,590,69
+2025-09-15,Gel Pen Pack,Stationery,16,65,34,56
+2025-09-15,Water Bottle,Lifestyle,11,180,102,12
+2025-09-14,Gel Pen Pack,Stationery,3,65,34,72
+2025-09-07,USB Hub,Electronics,12,430,275,45
+2025-09-23,Notebook,Stationery,22,48,29,81
+2025-09-25,Backpack,Lifestyle,2,650,410,105
+2025-10-28,Printer Paper,Office,21,310,226,30
+2025-10-06,Backpack,Lifestyle,21,650,410,40
+2025-10-21,Printer Paper,Office,22,310,226,110
+2025-10-06,Desk Organizer,Office,18,220,128,73
+2025-10-21,Water Bottle,Lifestyle,4,180,102,20
+2025-10-05,Desk Organizer,Office,10,220,128,98
+2025-10-25,Water Bottle,Lifestyle,16,180,102,25
+2025-10-22,Backpack,Lifestyle,11,650,410,78
+2025-10-15,Water Bottle,Lifestyle,3,180,102,92
+2025-10-11,Desk Organizer,Office,22,220,128,89
+2025-10-25,Printer Paper,Office,11,310,226,112
+2025-10-04,USB Hub,Electronics,3,430,275,66
+2025-10-26,Water Bottle,Lifestyle,23,180,102,128
+2025-10-19,Backpack,Lifestyle,2,650,410,86
+2025-10-12,Notebook,Stationery,19,48,29,14
+2025-10-23,Backpack,Lifestyle,16,650,410,54
+2025-10-20,LED Desk Lamp,Electronics,8,890,590,113
+2025-10-03,Water Bottle,Lifestyle,12,180,102,57
+2025-10-26,Water Bottle,Lifestyle,8,180,102,19
+2025-10-26,Desk Organizer,Office,20,220,128,36
+2025-11-25,USB Hub,Electronics,23,430,275,46
+2025-11-12,LED Desk Lamp,Electronics,8,890,590,85
+2025-11-17,Desk Organizer,Office,14,220,128,120
+2025-11-15,Gel Pen Pack,Stationery,11,65,34,74
+2025-11-13,Backpack,Lifestyle,2,650,410,105
+2025-11-17,Notebook,Stationery,13,48,29,26
+2025-11-23,Printer Paper,Office,22,310,226,65
+2025-11-18,Notebook,Stationery,21,48,29,117
+2025-11-13,Gel Pen Pack,Stationery,19,65,34,82
+2025-11-21,Notebook,Stationery,5,48,29,94
+2025-11-21,Backpack,Lifestyle,4,650,410,28
+2025-11-07,Gel Pen Pack,Stationery,10,65,34,128
+2025-11-14,Water Bottle,Lifestyle,8,180,102,96
+2025-11-04,Printer Paper,Office,16,310,226,45
+2025-11-08,Gel Pen Pack,Stationery,10,65,34,30
+2025-11-12,Water Bottle,Lifestyle,15,180,102,75
+2025-11-13,Water Bottle,Lifestyle,19,180,102,30
+2025-11-04,Desk Organizer,Office,24,220,128,121
+2025-11-23,Water Bottle,Lifestyle,20,180,102,44
+2025-11-12,Gel Pen Pack,Stationery,14,65,34,108
+2025-12-13,Notebook,Stationery,24,48,29,118
+2025-12-27,Water Bottle,Lifestyle,23,180,102,135
+2025-12-01,LED Desk Lamp,Electronics,4,890,590,94
+2025-12-02,Gel Pen Pack,Stationery,22,65,34,87
+2025-12-26,USB Hub,Electronics,8,430,275,71
+2025-12-21,LED Desk Lamp,Electronics,20,890,590,40
+2025-12-06,Backpack,Lifestyle,19,650,410,114
+2025-12-19,Printer Paper,Office,24,310,226,62
+2025-12-07,USB Hub,Electronics,24,430,275,66
+2025-12-21,Gel Pen Pack,Stationery,11,65,34,66
+2025-12-08,Backpack,Lifestyle,2,650,410,38
+2025-12-13,USB Hub,Electronics,13,430,275,101
+2025-12-13,Gel Pen Pack,Stationery,18,65,34,40
+2025-12-19,Printer Paper,Office,9,310,226,123
+2025-12-15,Notebook,Stationery,14,48,29,133
+2025-12-05,LED Desk Lamp,Electronics,4,890,590,120
+2025-12-27,Desk Organizer,Office,21,220,128,87
+2025-12-03,Desk Organizer,Office,24,220,128,101
+2025-12-11,Water Bottle,Lifestyle,12,180,102,68
+2025-12-12,USB Hub,Electronics,9,430,275,32
